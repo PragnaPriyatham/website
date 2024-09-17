@@ -1,0 +1,4 @@
+device_id,name,cost
+1,Laptop,1500
+2,tablet,500
+3,computer,1400
